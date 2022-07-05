@@ -117,10 +117,10 @@ Le puedes preguntar tanto en español como en ingles!
 
 <br/>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats -->
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alemant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alemant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" /> -->
 
   <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="lemorles" /> -->
 
