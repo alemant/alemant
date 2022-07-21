@@ -64,7 +64,7 @@ Proyecto final bootcamp Henry:
 - Link al deploy del proyecto: <a href="https://mypc.vercel.app/" target="_blank" rel="noreferrer">MyPC</a>
 
 Proyecto individual bootcamp Henry:
-- Link al deploy del proyecto: <a href="" target="" rel="noreferrer">PI-Videogames</a>
+- Link al deploy del proyecto: <a href="https://pi-videogames-lilac.vercel.app/" target="" rel="noreferrer">PI-Videogames</a>
 
 <!-- <br/>
 <p align='center'>
