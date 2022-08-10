@@ -51,7 +51,7 @@ Mis hobbies son: Disfrutar de caminatas y salidas en ♥familia♥, hacer ejerci
 
 <br/>
 
-- Frontend: JS, React JS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Frontend: JavaScript, React JS, Redux, React-router-DOM, HTML, CSS.
 - Backend: Node JS, Express JS, Sequelize, Postgres, Axios.
 - DataBase: SQL.
 - Deploy: Vercel, Heroku.
