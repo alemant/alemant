@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ Sobre mi
 
-Soy desarrollador Full-Stack 💻, recién graduado en Henry (me inclino un poquito más hacia el front-end). Soy curioso, me gusta aprender, me gusta enseñar lo que sé y disfruto trabajar en equipo.
+Soy desarrollador Full-Stack 💻, graduado en Henry. Soy curioso, me gusta aprender tanto de forma autodidacta como de los demás, me gusta enseñar lo que sé, disfruto mucho trabajar en equipo, soy proactivo y me gustan los desafíos.
 
 Empecé estudiando de forma autodidacta, viendo videos 📼 y leyendo documentación por internet, y luego comencé el bootcamp de Henry 🚀.
 
